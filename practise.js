@@ -33,3 +33,5 @@ if(num_2%2==0 || num_2%3==0){
 
 //5
 console.log(age>18? "Drive":"Not drive")
+//6
+console.log("Hello world")
