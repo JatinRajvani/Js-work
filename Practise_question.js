@@ -1,41 +1,4 @@
-// // Basic string creation
-// const greeting = "Hello, world!";
-// console.log(greeting); // Output: Hello, world!
-
-// a=[3,2,5]
-// for(i=0;i<a.length;i++){
-// if(a[i]<a[i+1] && a[i+2]){
-//     console.log(true)
-// }else{
-//     console.log(false)
-// }
-// }
-//checking the given number is prime or not
-
-// NUM=12
-// count=0
-// for(i=2;i<NUM;i++){
-//     if(NUM%i==0){
-//         count=count+1
-//     }    
-// }if(count>0){
-//     console.log("not prime")
-// }else{
-// console.log("Prime")
-// }
-
-
-
-// console.log(a)
-// let longer=0
-// b=strin.length
-// console.log(b)
-// for(i=0;i<=strin.length;i++){
-//     if(longer>a[i]){
-//         console.log(longer=a[0].length)
-//     }
-// }
-                            //  Practise questions
+ //  Practise questions
 // Que-1 Finding the length without using ,length function
 // let arr=[1,3,2,4,5,8,7]
 // let len=0;
